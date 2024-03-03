@@ -481,7 +481,9 @@ nav {
 .scan-code-text {
     grid-column: 6/9;
 }
-
+.scan-code-text ul{
+    margin-left: 10px;
+}
 .scan-code-barcode {
     grid-column: 10/13;
 }
